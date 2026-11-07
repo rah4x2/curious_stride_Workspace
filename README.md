@@ -1,6 +1,6 @@
 # CuriousStride
 
-A calm, private browser workspace for the transition after university, built from the supplied CuriousStride product brief. Version 1.1 with the expressive colour theme.
+A calm, private browser workspace for the transition after university, built from the supplied CuriousStride product brief. Version 1.1 
 
 ## Start
 
